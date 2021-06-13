@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Para iniciar el proyecto primero se recomienda realizar lo siguiente, para instalar las dependencias
+### `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -15,6 +18,10 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `npm test`
+
+Para ejecutar los test sigue los siguientes comandos:
+### `npm run test` para ejecutar test sin salida, solo a nivel commando
+### `npm run test -- --coverage` para obtener un reporte del coverage
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
