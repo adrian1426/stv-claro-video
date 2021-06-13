@@ -4,7 +4,7 @@ import Card from '@material-ui/core/Card';
 import PeliculaServices from '../../services/PeliculaServices';
 import { useDispatch } from 'react-redux';
 import { setLoaderAction } from '../../redux/actions/loader/loaderAction';
-import PeliculaDetailCard from './PeliculasItemDetailCard';
+import PeliculaDetailImg from './PeliculasItemDetailImg';
 import PeliculasDetailDescription from './PeliculasItemDetailDes';
 import { makeStyles } from '@material-ui/core/styles';
 
@@ -58,7 +58,7 @@ const PeliculasItemDetail = (props) => {
     return (
         <div>
             <Card className={classes.sectionDesktop}>
-                <PeliculaDetailCard
+                <PeliculaDetailImg
                     {...{ image_base_vertical, title }}
                 />
                 <PeliculasDetailDescription
@@ -67,7 +67,7 @@ const PeliculasItemDetail = (props) => {
             </Card>
 
             <Card className={classes.sectionMobile}>
-                <PeliculaDetailCard
+                <PeliculaDetailImg
                     {...{ image_base_vertical, title }}
                 />
                 <PeliculasDetailDescription

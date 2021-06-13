@@ -34,10 +34,10 @@ const PeliculasItemDetailDes = (props) => {
   return (
     <div className={classes.details}>
       <CardContent className={classes.content}>
-        <Typography component="h5" variant="h5">
+        <Typography component="h5" variant="h5" data-testid='titlePelicula'>
           {title}
         </Typography>
-        <Typography variant="subtitle1" color="textSecondary">
+        <Typography variant="subtitle1" color="textSecondary" data-testid='titleDescription'>
           {large_description}
         </Typography>
 
@@ -51,6 +51,7 @@ const PeliculasItemDetailDes = (props) => {
                 key={item.id}
                 className={classes.chip}
                 label={item.desc}
+                data-testid='genero'
               />
             )
           })}
@@ -65,6 +66,7 @@ const PeliculasItemDetailDes = (props) => {
                       key={iTalent.id}
                       label={iTalent.fullname}
                       className={classes.chip}
+                      data-testid='roles'
                     />
                   )
                 })}

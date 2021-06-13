@@ -1,0 +1,345 @@
+{
+  "entry": {
+    "device_id": "web",
+    "device_category": "web",
+    "device_model": "web",
+    "device_type": "web",
+    "device_so": "Chrome",
+    "format": "json",
+    "device_manufacturer": "generic",
+    "authpn": "webclient",
+    "authpt": "tfg1h3j4k6fd7",
+    "api_version": "v5.93",
+    "region": "mexico",
+    "HKS": "rq1041h5q3lf8jjak5bnmp4or4",
+    "group_id": "775549"
+  },
+  "response": {
+    "group": {
+      "common": {
+        "position": 0,
+        "id": "775549",
+        "title": "Love: Solitario",
+        "description": "Un astronauta queda atrapado a bordo de una Estación Espacial y debe luchar por su vida.",
+        "large_description": "Después de perder contacto con la Tierra, el astronauta Lee Miller queda atrapado a bordo de la Estación Espacial Internacional. A medida que el tiempo avanza y las reservas vitales se acaban, Lee lucha para mantener su cordura, y su vida.",
+        "short_description": null,
+        "duration": "01:23:53",
+        "image_large_alt": "Love: Solitario",
+        "image_medium_alt": "Love: Solitario",
+        "image_small_alt": "Love: Solitario",
+        "image_large": "https://clarovideocdn7.clarovideo.net/PELICULAS/LOVE/EXPORTACION_WEB/SS/LOVEWHORIZONTAL.jpg?size=675x380",
+        "image_medium": "https://clarovideocdn5.clarovideo.net/PELICULAS/LOVE/EXPORTACION_WEB/SS/LOVEWVERTICAL.jpg?size=200x300",
+        "image_small": "https://clarovideocdn7.clarovideo.net/PELICULAS/LOVE/EXPORTACION_WEB/SS/LOVEWHORIZONTAL.jpg?size=290x163",
+        "image_still": "https://clarovideocdn6.clarovideo.net/PELICULAS/LOVE/EXPORTACION_WEB/STILLS/LOVE-STILL-01.jpg",
+        "image_background": "https://clarovideocdn7.clarovideo.net/PELICULAS/LOVE/EXPORTACION_WEB/CLEAN/LOVE_e-1280x720.jpg",
+        "image_base_horizontal": "https://clarovideocdn4.clarovideo.net/PELICULAS/LOVE/EXPORTACION_WEB/SS/LOVEWHORIZONTAL.jpg",
+        "image_base_vertical": "https://clarovideocdn2.clarovideo.net/PELICULAS/LOVE/EXPORTACION_WEB/SS/LOVEWVERTICAL.jpg",
+        "image_base_square": "https://clarovideocdn2.clarovideo.net/PELICULAS/LOVE/EXPORTACION_WEB/SS/LOVEWCUADRADO.jpg",
+        "image_clean_horizontal": "https://clarovideocdn7.clarovideo.net/PELICULAS/LOVE/EXPORTACION_WEB/CLEAN/LOVEWHORIZONTAL.jpg",
+        "image_clean_vertical": "https://clarovideocdn5.clarovideo.net/PELICULAS/LOVE/EXPORTACION_WEB/CLEAN/LOVEWVERTICAL.jpg",
+        "image_clean_square": "https://clarovideocdn5.clarovideo.net/PELICULAS/LOVE/EXPORTACION_WEB/CLEAN/LOVEWCUADRADO.jpg",
+        "image_sprites": "https://clarovideocdn8.clarovideo.net/PELICULAS/LOVE/EXPORTACION_WEB/SPRITES/LOVE-SPRITEBAR.jpg",
+        "image_frames": "https://clarovideocdn4.clarovideo.net/PELICULAS/LOVE/EXPORTACION_WEB/SPRITES/LOVE-00h-00m-00s-00f.jpg",
+        "image_external": null,
+        "image_trickplay": "",
+        "date": "09/05/2020",
+        "media_type": "2",
+        "title_uri": "Love-Solitario",
+        "extendedcommon": {
+          "keywords": {
+            "keyword": [
+              "5520"
+            ]
+          },
+          "genres": {
+            "genre": [
+              {
+                "id": "51220",
+                "name": "Sci-Fi",
+                "desc": "Ciencia ficción"
+              }
+            ]
+          },
+          "roles": {
+            "role": [
+              {
+                "id": "13617516",
+                "name": "Actor",
+                "desc": "Actor",
+                "talents": {
+                  "talent": [
+                    {
+                      "id": "138689743",
+                      "name": "Corey",
+                      "surname": "Richardson",
+                      "fullname": "Richardson, Corey"
+                    },
+                    {
+                      "id": "138689748",
+                      "name": "Troy",
+                      "surname": "Mittleider",
+                      "fullname": "Mittleider, Troy"
+                    },
+                    {
+                      "id": "138689741",
+                      "name": "Roger E.",
+                      "surname": "Fanter",
+                      "fullname": "Fanter, Roger E."
+                    },
+                    {
+                      "id": "138689747",
+                      "name": "Gunner",
+                      "surname": "Wright",
+                      "fullname": "Wright, Gunner"
+                    },
+                    {
+                      "id": "138689744",
+                      "name": "Bradley",
+                      "surname": "Horne",
+                      "fullname": "Horne, Bradley"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "13617517",
+                "name": "Director",
+                "desc": "Director",
+                "talents": {
+                  "talent": [
+                    {
+                      "id": "-293",
+                      "name": "William",
+                      "surname": "Eubank",
+                      "fullname": "Eubank, William"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "13965643",
+                "name": "Writer",
+                "desc": "Escritor",
+                "talents": {
+                  "talent": [
+                    {
+                      "id": "-293",
+                      "name": "William",
+                      "surname": "Eubank",
+                      "fullname": "Eubank, William"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "13965645",
+                "name": "Producer",
+                "desc": "Productor",
+                "talents": {
+                  "talent": [
+                    {
+                      "id": "138689746",
+                      "name": "Nate",
+                      "surname": "Kolbeck",
+                      "fullname": "Kolbeck, Nate"
+                    },
+                    {
+                      "id": "138689745",
+                      "name": "Dan",
+                      "surname": "Figur",
+                      "fullname": "Figur, Dan"
+                    },
+                    {
+                      "id": "138689742",
+                      "name": "Vertel",
+                      "surname": "Scott",
+                      "fullname": "Scott, Vertel"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "format": {
+            "id": "42223249",
+            "name": "Type 6",
+            "types": "susc",
+            "sell_type": "susc",
+            "est": "N"
+          },
+          "media": {
+            "originaltitle": "Love",
+            "description_extended": "Después de perder contacto con la Tierra, el astronauta Lee Miller queda atrapado a bordo de la Estación Espacial Internacional. A medida que el tiempo avanza y las reservas vitales se acaban, Lee lucha para mantener su cordura, y su vida.",
+            "publishyear": "2011",
+            "boxoffice": "0.0",
+            "rating": {
+              "id": "30",
+              "code": "PG-13",
+              "desc": "Apta para mayores de 13"
+            },
+            "duration": "01:23:53",
+            "haspreview": "false",
+            "countryoforigin": {
+              "code": "US",
+              "desc": "Estados Unidos"
+            },
+            "profile": {
+              "audiotype": "MA GENERAL",
+              "videotype": "Color",
+              "screenformat": "16:9",
+              "hd": {
+                "enabled": "true",
+                "detail": "720p"
+              }
+            },
+            "islive": "0",
+            "livetype": null,
+            "liveref": null,
+            "timeshift": null,
+            "encoder_tecnology": {
+              "id": null,
+              "desc": null
+            },
+            "recorder_technology": {
+              "id": null,
+              "desc": null
+            },
+            "resource_name": null,
+            "rollingcreditstime": "-320",
+            "rollingcreditstimedb": "-320",
+            "proveedor": {
+              "id": "1",
+              "codigo": "amco",
+              "nombre": "AMCO"
+            },
+            "rights": {
+              "start_date": "2018-10-01",
+              "end_date": "2021-11-10"
+            },
+            "channel_number": null,
+            "language": {
+              "original": {
+                "id": "ING",
+                "desc": "Inglés"
+              },
+              "dubbed": "false",
+              "subbed": "true",
+              "options": {
+                "option": [
+                  {
+                    "group_id": "775549",
+                    "content_id": "793422",
+                    "current_content": "false",
+                    "option_id": "O-EN",
+                    "audio": "ORIGINAL",
+                    "subtitle": null,
+                    "option_name": "original",
+                    "id": "EN",
+                    "desc": "Inglés",
+                    "label_short": "Id. Inglés",
+                    "label_large": "Idioma Original Inglés",
+                    "intro_start_time": null,
+                    "intro_finish_time": null,
+                    "credits_start_time": "-320",
+                    "encodes": [
+                      "hls",
+                      "hlsfps",
+                      "hls_ma",
+                      "hlsfps_ma",
+                      "hlsprm",
+                      "smooth_streaming",
+                      "smooth_streaming_ma",
+                      "dashpr",
+                      "dashwv",
+                      "dashwv_ma",
+                      "dashpr_ma"
+                    ],
+                    "fast_play": []
+                  },
+                  {
+                    "group_id": "775549",
+                    "content_id": "793423",
+                    "current_content": "false",
+                    "option_id": "S-ES",
+                    "audio": "ORIGINAL",
+                    "subtitle": "ES",
+                    "option_name": "subbed",
+                    "id": "ES",
+                    "desc": "Español",
+                    "label_short": "Subt. Español",
+                    "label_large": "Subtitulada al Español",
+                    "intro_start_time": null,
+                    "intro_finish_time": null,
+                    "credits_start_time": "-320",
+                    "encodes": [
+                      "hls",
+                      "hlsfps",
+                      "hls_ma",
+                      "hlsfps_ma",
+                      "hlsprm",
+                      "smooth_streaming",
+                      "smooth_streaming_ma",
+                      "dashpr",
+                      "dashwv",
+                      "dashwv_ma",
+                      "dashpr_ma"
+                    ],
+                    "fast_play": []
+                  },
+                  {
+                    "group_id": "775549",
+                    "content_id": "793424",
+                    "current_content": "false",
+                    "option_id": "S-PT",
+                    "audio": "ORIGINAL",
+                    "subtitle": "PT",
+                    "option_name": "subbed",
+                    "id": "PT",
+                    "desc": "Portugués",
+                    "label_short": "Subt. Portugués",
+                    "label_large": "Subtitulada al Portugués",
+                    "intro_start_time": null,
+                    "intro_finish_time": null,
+                    "credits_start_time": "-320",
+                    "encodes": [
+                      "hls",
+                      "hlsfps",
+                      "hls_ma",
+                      "hlsfps_ma",
+                      "hlsprm",
+                      "smooth_streaming",
+                      "smooth_streaming_ma",
+                      "dashpr",
+                      "dashwv",
+                      "dashwv_ma",
+                      "dashpr_ma"
+                    ],
+                    "fast_play": []
+                  }
+                ],
+                "count": 3
+              }
+            }
+          }
+        },
+        "ranking": {
+          "views_count": 0,
+          "votes_count": 200,
+          "average_votes": 4
+        }
+      },
+      "universal_id": {
+        "content_providers": [
+          {
+            "group_id": "775549",
+            "provider_id": "1",
+            "provider_code": "amco"
+          }
+        ],
+        "metadata_providers": []
+      }
+    }
+  },
+  "status": "0",
+  "msg": "OK"
+}
