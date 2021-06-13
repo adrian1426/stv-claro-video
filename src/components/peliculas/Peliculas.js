@@ -39,7 +39,15 @@ const Peliculas = (props) => {
 
     return (
         <div className={Styles.Container_Peliculas}>
-            <PeliculasFilter busquedaPeliculas={setFilter} />
+            <div className={Styles.Container_Peliculas_Header}>
+                <img
+                    src="https://www.clarovideo.com/webclient/sk_core/images/clarovideo-logo-sitio.svg"
+                    alt="claro-video"
+                    height='35px'
+                    width='15%'
+                />
+                <PeliculasFilter busquedaPeliculas={setFilter} />
+            </div>
 
             <div className={Styles.Container_Peliculas_Item}>
                 {peliculasFiltradas.map(item => {

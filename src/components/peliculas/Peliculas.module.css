@@ -4,6 +4,12 @@
     align-items: center;
 }
 
+.Container_Peliculas_Header{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
 .Container_Peliculas_Item{
     display: flex;
     flex-wrap: wrap;
