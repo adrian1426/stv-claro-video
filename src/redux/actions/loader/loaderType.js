@@ -1,0 +1,1 @@
+export const loader = 'LOADER/OPEN_HIDE';

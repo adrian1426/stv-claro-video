@@ -1,0 +1,1 @@
+export const setUrlPelicula = 'PELICULAS/SET_URL_PELICULA';
